@@ -1,5 +1,6 @@
 div.crveno {
-    background-color: red;
+    background-color: red;  
+    border: solid black;
 }
 
 div.bijelo {
